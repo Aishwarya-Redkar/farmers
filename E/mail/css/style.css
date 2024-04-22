@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+* { margin:0 auto; padding:0px; }
+a { text-decoration:none;}
+h1 { font-family:Tahoma, Geneva, sans-serif; font-size:24px; text-transform:uppercase; color:#036; }
+.box { width:500px; min-height:100px; padding:15px; border:1px red dashed; text-align:center; margin-top:50px; }
+.cmail { width:350px; height:35px; border:#033 solid 2px; padding:5px; font-family:Tahoma, Geneva, sans-serif; font-size:14px; font-weight:bold; color:#090; }
+.csubmit { width:100px; height:35px; background-color:#003; padding:6px; border:#033 solid 2px; color:#FFF; text-transform:uppercase;  }
